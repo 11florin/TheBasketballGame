@@ -11,7 +11,7 @@ This project simulates a basketball match between two teams, featuring complete 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone
+   git clone  https://github.com/11florin/TheBasketballGame.git
 
 ## 🎮 Example Output
    *****************************************************************************
@@ -26,13 +26,21 @@ This project simulates a basketball match between two teams, featuring complete 
 *****************************************************************************
 
 Arena: Etihad Stadium
+
 Date: 2025-09-02
+
 Court length (feet): 94
+
 Rim height (feet): 10
+
 Distance from three-point arc: 23
+
 Points awarded beyond the three-point arc: 3
+
 Points awarded inside the three-point arc: 2
+
 Points awarded from a free throw: 1
+
 Length of each quarter (minutes): 12
 
 ## 👨‍💻 Author
