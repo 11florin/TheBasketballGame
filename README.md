@@ -43,8 +43,10 @@ Points awarded from a free throw: 1
 
 Length of each quarter (minutes): 12
 
+Seconds to attempt a shot after gaining possession: 24
+
 ## 👨‍💻 Author
 
 Project created as a way to practise Object-Oriented Programming (OOP) in Java and model a simplified basketball game.
-Seconds to attempt a shot after gaining possession: 24
+
 
